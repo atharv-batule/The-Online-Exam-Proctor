@@ -1,8 +1,8 @@
 import sys
-import face_recognition
+#import face_recognition
 from concurrent.futures import ThreadPoolExecutor
 import cv2
-import mediapipe as mp
+#import mediapipe as mp
 import numpy as np
 import time
 import math
@@ -18,7 +18,7 @@ import pyperclip
 from ultralytics import YOLO
 import threading
 from multiprocessing import Process
-import pyaudio
+#import pyaudio
 import struct
 import wave
 import datetime
